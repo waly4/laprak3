@@ -1,2 +1,1 @@
-# laprak3
-Laporan Praktikum Metode Komputasi Acara 3: Git dan Github
+hai guys, aku nulisnya di tugas 1 yaww. makasii
