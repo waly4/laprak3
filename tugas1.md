@@ -4,9 +4,9 @@ Disusun Oleh:
 Husna Waly Amina 
 24/538596/PA/22862
 
-![Lampiran printscreen vscode](<../../OneDrive/Pasfoto Husna Waly Amina (Kuliah)/Screenshots/Screenshot 2025-09-22 065209.png>)
-![lampiran printscreeen anaconda prompt](<../../OneDrive/Pasfoto Husna Waly Amina (Kuliah)/Screenshots/Screenshot 2025-09-22 065150.png>)
-![this is me doing laprak](../../Downloads/413865-2560x1600-desktop-hd-tom-hiddleston-background-photo.jpg)
+![this is me laprak-ing](https://github.com/user-attachments/assets/c6ff8f10-9a4e-4bc5-a0f0-ae4a6038fc29)
+<img width="1919" height="1009" alt="Image" src="https://github.com/user-attachments/assets/8a2c6689-61ce-4c5f-81c6-8bac97e705fe" />
+<img width="1919" height="999" alt="Image" src="https://github.com/user-attachments/assets/21a72664-1aff-4539-aa89-f95671b98138" />
 
 ## q1: what am i interested in learning currently
 
