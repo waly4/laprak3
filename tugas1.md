@@ -4,6 +4,10 @@ Disusun Oleh:
 Husna Waly Amina 
 24/538596/PA/22862
 
+![Lampiran printscreen vscode](<../../OneDrive/Pasfoto Husna Waly Amina (Kuliah)/Screenshots/Screenshot 2025-09-22 065209.png>)
+![lampiran printscreeen anaconda prompt](<../../OneDrive/Pasfoto Husna Waly Amina (Kuliah)/Screenshots/Screenshot 2025-09-22 065150.png>)
+![this is me doing laprak](../../Downloads/413865-2560x1600-desktop-hd-tom-hiddleston-background-photo.jpg)
+
 ## q1: what am i interested in learning currently
 
 seeing the state of the world and the fact that i am a university student, i have to focus on so many different things and subject. i have to learn new unfamiliar subjects to my geophysical major, a lot of lab hours and *ofcourse* lots lots of lab reports. but so far, i'm enjoying it. the feeling that i know that other of my friends also suffering the same thing creates big relief in my soul. they are also helpful and so open about everything. all the lab assistant also kind and generous. and not to talk about the lecturers who are absolutely smart *and* could teach!
