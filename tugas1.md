@@ -5,8 +5,11 @@ Husna Waly Amina
 24/538596/PA/22862
 
 ![this is me laprak-ing](https://github.com/user-attachments/assets/c6ff8f10-9a4e-4bc5-a0f0-ae4a6038fc29)
+this is literally me
 <img width="1919" height="1009" alt="Image" src="https://github.com/user-attachments/assets/8a2c6689-61ce-4c5f-81c6-8bac97e705fe" />
-<img width="1919" height="999" alt="Image" src="https://github.com/user-attachments/assets/21a72664-1aff-4539-aa89-f95671b98138" />
+lampiran vscode
+<img width="1919" height="999" alt="Image" src="https://github.com/user-attachments/assets/e3fae1fd-1638-48de-ad72-a670642fe54a" />
+lampiran anaconda prompt
 
 ## q1: what am i interested in learning currently
 
